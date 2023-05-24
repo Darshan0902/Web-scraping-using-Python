@@ -1,6 +1,6 @@
 # Web-scraping-using-Python :
 
-  Being in the Line of Data analysts , I always wondered whether we needed to have data in our local PC to form operations like alterations , Removing inconsistencies , Gaps and Redundancies in our data , Happens to be that there is a concept known as "WEBSCRAPING" . 
+  Being in the Field of Data analysts , I always wondered whether we needed to have data in our local PC to form operations like alterations , Removing inconsistencies , Gaps and Redundancies in our data , Happens to be that there is a concept known as "WEBSCRAPING" . 
   
   
   <h2> About webscraping : </h2> 
